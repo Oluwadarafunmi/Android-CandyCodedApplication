@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,30 +157,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1602025021240">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1602029545736">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602025021240" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602029545736" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1601862488455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601862488455" />
-    <state width="1306" height="167" key="GridCell.Tab.0.bottom" timestamp="1602028909847">
+    <state width="1306" height="167" key="GridCell.Tab.0.bottom" timestamp="1602031085471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602028909847" />
-    <state width="1306" height="167" key="GridCell.Tab.0.center" timestamp="1602028909846">
+    <state width="1306" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602031085471" />
+    <state width="1306" height="167" key="GridCell.Tab.0.center" timestamp="1602031085469">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602028909846" />
-    <state width="1306" height="167" key="GridCell.Tab.0.left" timestamp="1602028909846">
+    <state width="1306" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602031085469" />
+    <state width="1306" height="167" key="GridCell.Tab.0.left" timestamp="1602031085441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602028909846" />
-    <state width="1306" height="167" key="GridCell.Tab.0.right" timestamp="1602028909847">
+    <state width="1306" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602031085441" />
+    <state width="1306" height="167" key="GridCell.Tab.0.right" timestamp="1602031085470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602028909847" />
+    <state width="1306" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602031085470" />
     <state x="313" y="217" key="Performance.Activity.Monitor" timestamp="1601860209724">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
