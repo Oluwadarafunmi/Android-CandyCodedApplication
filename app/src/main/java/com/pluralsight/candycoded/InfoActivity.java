@@ -36,10 +36,18 @@ public class InfoActivity extends AppCompatActivity {
 
         if (mapIntent.resolveActivity(getPackageManager())!= null )  {
             startActivity(mapIntent);
-        }
+        }}
 
         // ***
         // TODO - Task 3 - Launch the Phone Activity
         // ***
+
+    public void createPhoneIntent(View view) {
+        Intent actionDial = new Intent(Intent.ACTION_DIAL);
+        actionDial.setData(Uri.parse("tel:0123456789"));
+
+        startActivity(actionDial);
+
     }
+
 }
